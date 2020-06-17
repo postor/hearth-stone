@@ -1,0 +1,7 @@
+{
+  "name": "moodular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

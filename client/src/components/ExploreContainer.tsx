@@ -1,6 +1,6 @@
 import React from 'react';
 import './ExploreContainer.css';
-import { IonItem, IonButton } from '@ionic/react';
+import { IonButton } from '@ionic/react';
 
 interface ContainerProps { }
 
